@@ -8,7 +8,7 @@ This project demonstrates how to generate a QR code using Python, customize it w
 
 ## Example
 A sample QR code is generated using the link: "https://github.com/kalravanshika".
-(GithubQR.png)
+![QR Code](GithubQR.png)
 The QR code is then customized by adding a background image 
 (picture.png)
 
