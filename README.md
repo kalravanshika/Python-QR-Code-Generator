@@ -7,7 +7,7 @@ This project demonstrates how to generate a QR code using Python, customize it w
 - __Visual Output:__ Displays the final QR code with the background in the notebook.
 
 ## Example
-A sample QR code is generated using the link: "https://github.com/kalravanshika". 
+A sample QR code is generated using the link: https://github.com/kalravanshika. 
 <br><br>
 ![QR Code](GithubQR.png)
 <br><br>
